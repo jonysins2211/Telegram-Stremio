@@ -1,1 +1,1 @@
-web: docker compose up -d
+web: uv run update.py && uv run -m Backend
