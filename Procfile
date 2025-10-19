@@ -1,1 +1,1 @@
-web: chmod +x start.sh
+web: docker compose up -d
