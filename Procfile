@@ -1,1 +1,1 @@
-web: Dockerfile
+web: chmod +x start.sh
